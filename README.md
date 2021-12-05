@@ -1,1 +1,22 @@
-# readme
+<h1 align="center">Hi 👋, I'm Radu</h1>
+<h3 align="center">A young and passionate Graphics Developer from Romania</h3>
+
+- 🔭 I’m currently working on **NeonVK(NVK)**
+
+- 🌱 I’m currently learning **Vulkan®**
+
+- 💬 Ask me about **Space, computers and games**
+
+- 📫 How to reach me **zentros@protonmail.com**
+
+- ⚡ Fun fact **I know a lot about space and linux**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/zentros"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zentros" /></a></p><br><br>
