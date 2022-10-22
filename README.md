@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Radu</h1>
 <h3 align="center">A young and passionate Graphics Developer from Romania</h3>
 
-- 🔭 I’m currently working on **NeonVK(NVK)**
+- 🔭 I’m currently working on **PowerEngine(2.0)**
 
-- 🌱 I’m currently learning **Vulkan®**
+- 🌱 I’m currently learning **Termodynamics**
 
 - 💬 Ask me about **Space, computers and games**
 
