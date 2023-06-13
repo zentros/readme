@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radu</h1>
 <h3 align="center">A young and passionate Graphics Developer from Romania</h3>
 
-- 🔭 I’m currently working on **VkToy**
+- 🔭 I’m currently working on **Danube**
 
 - 🌱 I’m currently learning **Termodynamics**
 
